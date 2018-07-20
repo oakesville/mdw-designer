@@ -1,0 +1,9 @@
+[2018-07-10 11:06:56] Executing startup tasks
+[2018-07-10 11:06:57] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-07-10 11:06:57] Product self.product.version
+[2018-07-10 11:06:57] Workspace /Users/donaldoakes/workspaces/ffwf
+[2018-07-10 11:06:57] Bundle org.eclipse.oomph.setup 1.8.0.v20170408-0745, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-07-10 11:06:57] Bundle org.eclipse.oomph.setup.core 1.8.0.v20170531-0903, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-07-10 11:06:57] Bundle org.eclipse.oomph.setup.p2 1.8.0.v20170318-0419, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-07-10 11:06:57] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultPomEditorPage = true
+[2018-07-10 11:06:57] 

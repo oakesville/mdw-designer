@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<introContent>
+  <extensionContent id="mdw_tutorialsExtension"
+      name="MDW" 
+      style="css/intro.css"
+      path="tutorials/@">
+    <group id="mdw-tutorials-group"
+        label="MDW Tutorials"
+        style-id="content-group">
+      <link id="services-cookbookLink"
+          label="Microservices Cookbook"
+          url="http://centurylinkcloud.github.io/mdw/docs/guides/MicroservicesCookbook/" 
+          style-id="content-link">
+        <text>Use MDW to quickly produce and consume services using SOAP, REST, JMS and many other protocols.</text>
+      </link>
+      <link id="mdw-cookbookLink"
+          label="Cloud Foundry Cookbook"
+          url="http://centurylinkcloud.github.io/mdw/docs/guides/CloudFoundryCookbook/" 
+          style-id="content-link">
+        <text>Deploy the MDW Buildpack to quickly and reliably get set up in a PaaS environment.</text>
+      </link>
+      <link id="mdw-introLink"
+          label="Apache Tomcat Cookbook"
+          url="http://centurylinkcloud.github.io/mdw/docs/guides/TomcatCookbook/" 
+          style-id="content-link">
+        <text>Walk through creation of an MDW workflow on Tomcat, including dynamic source code and web pages.</text>
+      </link>
+      <anchor id="mdw-tutorials"/>
+    </group>
+  </extensionContent>
+</introContent>
